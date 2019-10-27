@@ -1,0 +1,27 @@
+/* CSS declarations go here */
+
+.top-margin{
+	margin-top:50px;
+}
+
+#viewer_iframe{
+
+	border:1px solid gray;
+	resize:both;
+	width:100%;
+}
+
+.light-border{
+	border:1px solid gray;
+	width:100%;	
+}
+body {
+  background-color: #FDF5E6;
+}
+iframe {
+	background-color: #002240;
+	border:1px solid gray;
+	resize:both;
+	width:100%;
+	font-color:white;
+}
