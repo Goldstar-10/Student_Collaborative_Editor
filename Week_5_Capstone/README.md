@@ -1,7 +1,5 @@
-Hi!
-
 You need to run the command:
 
 meteor npm install
+meteor
 
-before you can start up this project.
